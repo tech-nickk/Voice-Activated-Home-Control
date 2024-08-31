@@ -5,13 +5,13 @@
 
 #define AUDIO_FILE        "/Audio.wav"
 
-const char* ssid = "nicK";         
-const char* password = "kipnick56";
+const char* ssid = "*****";         
+const char* password = "*******";
 
 #define pin_RECORD_BTN 34
 #define LED 2
 
-const char* responder_ip = "192.168.87.42";  // IP of the responder board
+const char* responder_ip = "*******";  // IP of the responder board
 int responder_port = 80;
 
 bool I2S_Record_Init();
